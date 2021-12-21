@@ -97,5 +97,6 @@ export const SUPPORTED_WALLETS: WalletInfo[] = [
     connector: torus,
     name: 'Torus',
     icon: torusLogo,
+    mobile: true,
   },
 ];
